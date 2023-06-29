@@ -1,8 +1,12 @@
 # About this App
 The application was built to enable the users to add multiple stop watches
+
 Inside the src folder we have got the App.js file that contains the working code of this applcation
+
 It is styled using the App.css file
+
 The app was created using react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
